@@ -1,5 +1,6 @@
 {
-  "grades": [{
+  "grades": [
+    {
       "id": 5,
       "name": "Kyle Simpson",
       "course": "JavaScript",
@@ -16,6 +17,12 @@
       "name": "Douglas Crockford",
       "course": "JavaScript",
       "grade": 100
+    },
+    {
+      "name": "Joseph",
+      "course": "web dev",
+      "grade": "80",
+      "id": 33
     }
   ]
 }
