@@ -7,22 +7,10 @@
       "grade": 100
     },
     {
-      "id": 12,
-      "name": "Brendan Eich",
-      "course": "JavaScript",
-      "grade": 100
-    },
-    {
       "id": 32,
       "name": "Douglas Crockford",
       "course": "JavaScript",
       "grade": 100
-    },
-    {
-      "name": "Joseph",
-      "course": "web dev",
-      "grade": "80",
-      "id": 33
     }
   ]
 }
